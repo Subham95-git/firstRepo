@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 28 11:39:05 IST 2020
+zipkin-autoconfigure-metrics-prometheus-2.12.0-sources.jar>central=
+zipkin-autoconfigure-metrics-prometheus-2.12.0.jar>central=
+zipkin-autoconfigure-metrics-prometheus-2.12.0.pom>central=

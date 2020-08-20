@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 28 11:38:24 IST 2020
+zipkin-sender-kafka11-2.7.14.pom>central=
+zipkin-sender-kafka11-2.7.14-sources.jar>central=
+zipkin-sender-kafka11-2.7.14.jar>central=

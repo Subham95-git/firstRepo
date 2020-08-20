@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 28 11:36:27 IST 2020
+hystrix-metrics-event-stream-1.5.18-sources.jar>central=
+hystrix-metrics-event-stream-1.5.18.jar>central=
+hystrix-metrics-event-stream-1.5.18.pom>central=

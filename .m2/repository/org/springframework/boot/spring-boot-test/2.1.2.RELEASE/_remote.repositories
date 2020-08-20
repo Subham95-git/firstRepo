@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 28 11:36:48 IST 2020
+spring-boot-test-2.1.2.RELEASE.jar>central=
+spring-boot-test-2.1.2.RELEASE-sources.jar>spring-milestones=
+spring-boot-test-2.1.2.RELEASE.pom>central=
+spring-boot-test-2.1.2.RELEASE.jar>spring-milestones=
+spring-boot-test-2.1.2.RELEASE-sources.jar>central=
+spring-boot-test-2.1.2.RELEASE.pom>spring-milestones=
